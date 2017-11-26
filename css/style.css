@@ -1,0 +1,19 @@
+body {
+  font-family: Raleway, sans-serif;
+}
+
+h1 {
+  margin-top: 2em;  
+}
+
+.btn-lg {
+  margin: 20px;
+}
+
+blockquote {
+  border-left: none;
+}
+
+footer a {
+  text-decoration: none;
+}
